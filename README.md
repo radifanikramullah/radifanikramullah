@@ -1,4 +1,4 @@
-- ##👋 Hi, I’m @radifanikramullah and welcome to my journey in Data!
+##👋 Hi, I’m @radifanikramullah and welcome to my journey in Data!
 - 👀 I’m interested in Data Science, **Data Science Graduate Student** from Rakamin Academy Data Science Bootcamp
 - 💞️ Will be having fun with learning and creating project in Data Analytics and Machine Learning
 - 📫 How to reach me 
