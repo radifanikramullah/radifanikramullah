@@ -1,6 +1,6 @@
 ## 🚀 Hi! I'm Radifan Ikramullah and welcome to my journey in Data!
 
-- 👀 I’m interested in Data Science, [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/) from Rakamin Academy Data Science Bootcamp
+- 👀 I’m interested in Data Science,Graduated from [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/) 
 - 💞️ Will be having fun with learning and creating project in Data Analytics and Machine Learning
 - ✨ I'm Learning and Developing Machine Learning based projects in Python with Supervised and Unsupervised Learning
 - ☀️ Analyzing business performance using SQL
